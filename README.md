@@ -6,7 +6,7 @@ WIP: A Webservice working on top of Flask and Redis.py
 
 **Byte decodification**
 
-The ```redis.REDIS.__init__``` has the ```decode_responses``` option set to ```True```
+The ```redis.REDIS.__init__``` has the ```decode_responses``` option set to ```True```, allowing the redis driver to return decoded data from the server
 
 **CRUD**
 
